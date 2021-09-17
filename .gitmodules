@@ -1,3 +1,6 @@
 [submodule "header"]
 	path = header
 	url = git@github.com:willianpossa/header-module.git
+[submodule "footer"]
+	path = footer
+	url = git@github.com:willianpossa/footer-module.git
